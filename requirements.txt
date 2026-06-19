@@ -11,7 +11,7 @@ packaging==16.8
 pbr==1.10.0
 py==1.4.32
 pyparsing==2.1.10
-pytest==3.0.6
+pytest==9.0.3
 pytest-cov==2.4.0
 qsage>=2.4.0
 sapilocal>=2.4.0
